@@ -1,4 +1,4 @@
-# Dilated Attention U-Net for Conjunctival Vessel Segmentation
+# Dilated Attention U-Net for Diameter-Specific Conjunctival Vessel Segmentation
 
 This repository contains a PyTorch implementation of a **Dilated Attention U-Net** designed for the segmentation of **diameter-specific conjunctival blood vessels** from high-resolution ocular images.
 
@@ -114,6 +114,14 @@ torchsummary==1.5.1
 torchvision==0.24.0+cu128
 tqdm==4.67.3
 ```
+
+## 📄 Citation
+
+If you use this code in your research, please cite:
+
+### 🔹 Code Repository (Zenodo DOI)
+This repository is archived at:
+https://doi.org/10.5281/zenodo.19462245
 
 ---
 
